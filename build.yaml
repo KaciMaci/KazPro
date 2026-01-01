@@ -19,5 +19,4 @@
 #
 include:
   - board: nice_nano_v2   # tu microcontrolador
-    keymap: Kazpro    # tu keymap
-    shield: Kazpro
+    shield: KazPro
